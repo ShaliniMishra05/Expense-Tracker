@@ -15,7 +15,9 @@ Welcome to the **Expense Tracker** project! This simple web application allows y
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Functionality and dynamic interactions.
 - **JSON**: Data storage for expenses.
-
+- **Bootstrap**: Framework used to create a responsive and modern UI.
+- 
+  
 ## Getting Started 🚀
 1. Clone the repository: 
    ```bash
